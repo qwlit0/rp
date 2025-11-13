@@ -9,43 +9,43 @@ export default {
 		flagCode: 'de'
 	},
 	about: {
-		desc: 'Ein Krypto-Handelssimulator, mit dem Sie das Trading üben können, ohne echtes Geld zu verlieren. Erstellen Sie Coins, handeln Sie damit und führen Sie einen Rug Pull durch!',
+		desc: 'Ein Krypto-Handelssimulator, mit dem du Trading üben kannst, ohne Echtgeld auszugeben. Erstell Kryptowährungen, handel damit, und zock alle ab, indem du alles verkaufst!',
 		title: 'Über Uns',
 		usermanual: {
 			tips: {
 				'1': {
-					desc: 'Rugplay ist ein Kryptowährungshandels-Simulator, in dem Sie das Trading ohne echtes finanzielles Risiko üben können. Starten Sie mit virtuellem Geld, erstellen Sie Coins, wetten Sie auf Vorhersagemärkten und, was am wichtigsten ist: Machen Sie einen Rug Pull!'
+					desc: 'Rugplay ist ein Simulator, wo du mit Kryptowährung handelst, indem du Risikolos und ohne echtem Geld handelst. Erhalte täglich Geld, erstelle Coins, wetten Sie auf Ja/Nein Fragen, und wie es halb im Namen steht: Rugpull deinen Coin. Oder nicht aber du bist gierig genug um alles zu verkaufen'
 				},
 				'10': {
-					desc: 'Hopium lässt Sie auf Ja/Nein-Fragen über die Zukunft wetten. Die KI löst Fragen automatisch basierend auf realen Daten. Testen Sie Ihre Vorhersagefähigkeiten und verdienen Sie an korrekten Prognosen. Halten Sie $100.000 in bar, um Ihre eigene Hopium-Frage zu erstellen :)',
-					title: 'Hopium - Vorhersagemärkte'
+					desc: 'Hopium lässt dich auf Ja/Nein-Fragen über die Zukunft wetten. Die KI löst Fragen automatisch basierend auf realen Daten. Wette auf eine Frage und auf Glück hoffen. Besitze $100.000 Bargeld, wenn du deine eigene Frage weltweit veröffentlichen willst :)',
+					title: 'Hopium'
 				},
 				'11': {
-					desc: 'Besuchen Sie den **Glücksspiel**-Bereich für risikoreiche Spiele mit hoher Belohnung. Denken Sie daran: Dies sind reine Glücksspiele. Verspielen Sie nur das, was Sie sich leisten können zu verlieren, selbst in dieser Simulation!',
-					title: 'Glücksspiele'
+					desc: 'Hast du Glück? Dann stell dein Glück auf die Probe im **Gambling**-Bereich für risikoreiche Spiele mit hoher Belohnung. Aber erinner dich: Dies sind reine Glücksspiele. Es gibt keine Strategie im Glücksspiel. Gamble nur soviel, was du selber akzeptierst, zu verzocken, selbst in einer reinen Simulation!',
+					title: 'Gambling'
 				},
 				'12': {
-					desc: 'Beobachten Sie die Seite **Live-Trades**, um die Handelsaktivität aller Coins in Echtzeit zu sehen. Dies hilft Ihnen, Trend-Coins zu erkennen und die Marktstimmung zu verstehen. Die Seitenleiste zeigt Trades über $1.000, während der Haupt-Feed jede Transaktion anzeigt.',
+					desc: 'Wirf einen Blick auf **Live-Trades**, um die Handelsaktivität aller Coins in Echtzeit zu sehen. Dies hilft, zu erkennen, welche Coins gerade beliebt sind. Die Seitenleiste zeigt Trades über $1.000, während der Haupt-Feed jede Transaktion anzeigt, egal ob $500 oder ein einzigen Cent.',
 					title: 'Live-Trades Feed'
 				},
 				'13': {
-					desc: 'Die **Treemap**-Seite zeigt eine visuelle Darstellung des gesamten Marktes. Größere Quadrate stehen für eine höhere Marktkapitalisierung, und Farben zeigen die Preisentwicklung.',
+					desc: 'Die **Treemap**-Seite zeigt eine visuelle Darstellung der Top 100 Coins. Je größer das Quadrat, desto mehr kostet es pro Coin, und je heller, desto mehr hat sich der Coin in den letzen 24 Stunden verändert.',
 					title: 'Treemap-Visualisierung'
 				},
 				'14': {
-					desc: 'Messen Sie sich mit anderen Benutzern auf der **Bestenliste**. Steigen Sie in den Rängen auf, indem Sie kluge Investitionsentscheidungen treffen!',
+					desc: 'Versuche, der beste von den besten zu sein, damit jeder in der **Bestenliste** dein Namen sieht. Steig in den Rängen auf, indem du gut investiert!',
 					title: 'Bestenlisten'
 				},
 				'15': {
-					desc: 'Melden Sie sich täglich an, um **kostenloses Geld** zu erhalten! Ihre Anmeldesträhne erhöht Ihren täglichen Bonus. Beständige Spieler erhalten mehr virtuelles Geld zum Investieren.',
+					desc: 'Alle 12 Stunden bekommst du deine **Tagesbelohnung**! Je länger du dich hintereinander anmeldest, desto mehr kriegst du täglich, von $1.200 zu $8.500. Aktive Spieler werden also belohnt.',
 					title: 'Tägliche Belohnungen'
 				},
 				'16': {
-					desc: 'Fangen Sie klein an, **diversifizieren** Sie Ihre Anlagen und investieren Sie nicht alles in eine Coin. Achten Sie auf Coins mit diversifizierten Haltern, um absolute Rug Pulls zu vermeiden. Die Leute werden schlauer!',
+					desc: 'Fange klein an und investier **nicht** nicht alles in einem Coin. Kaufe Coins mit mehreren Investoren, um absolute Rugpulls zu vermeiden.',
 					title: 'Fazit'
 				},
 				'2': {
-					desc: 'Klicken Sie in der Seitenleiste auf **"Coin erstellen"**, um Ihre eigene Kryptowährung zu starten. Wählen Sie einen eindeutigen Namen, ein Symbol und laden Sie ein Icon hoch. Jede Coin startet bei $0.000001',
+					desc: 'Klick in der Seitenleiste auf **"Coin erstellen"**, um Ihre eigene Kryptowährung zu starten. Wählen Sie einen eindeutigen Namen, einzigartigen Kürzel, ein Symbol und laden Sie ein Icon hoch. Jede Währung startet bei $0.000001',
 					title: 'Ihre erste Coin erstellen'
 				},
 				'3': {
